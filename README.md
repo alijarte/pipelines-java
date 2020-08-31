@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/cappaconf-Carlos/SmartFactory/_apis/build/status/alijarte.pipelines-java%20(1)?branchName=azure-pipelines-branch1)](https://dev.azure.com/cappaconf-Carlos/SmartFactory/_build/latest?definitionId=2&branchName=azure-pipelines-branch1)
+[![Build Status](https://dev.azure.com/cappaconf-Carlos/SmartFactory/_apis/build/status/alijarte.pipelines-java%20(1)?branchName=azure-pipelines-branch1)]
 
 # Contributing
 
