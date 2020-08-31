@@ -1,4 +1,4 @@
-https://dev.azure.com/cappaconf-Carlos/SmartFactory/_apis/build/status/alijarte.pipelines-java%20(1)?branchName=azure-pipelines-branch1
+Code Repository Badge ![build passing](https://dev.azure.com/cappaconf-Carlos/SmartFactory/_apis/build/status/alijarte.pipelines-java%20(1)?branchName=azure-pipelines-branch1)
 
 # Contributing
 
